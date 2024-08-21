@@ -1,2 +1,2 @@
 # angular-clone-Web-Academy
-Este projeto é uma réplica do site da Web Academy, desenvolvido em Angular  e TypeScript . Interface criada com design responsivo e funcionalidades dinâmicas.
+Este projeto é uma réplica do site da Web Academy. Desenvolvido em Angular  e TypeScript, o site conta com interfaces criadas com design responsivo e funcionalidades dinâmicas.
